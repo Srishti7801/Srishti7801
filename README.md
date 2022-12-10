@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Srishti7801
+- 👋 Hi, I’m Srushti @Srishti7801
 - 👀 I’m interested in learning ML, Data Science and Web Development
 - 🌱 I’m currently learning cs50's introduction to web development
 - 💞️ I’m looking to collaborate on any projects related to AI, Data Science and webdevelopment
